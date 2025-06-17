@@ -19,15 +19,15 @@ Git & GitHub
 ## Task Overview -
 Task No.	Title	Description	Status	Task Link
 
-1.	Temperature Converter	CLI + GUI app to convert between Celsius, Fahrenheit, and Kelvin	✅ Completed	Task 1
+1.	Temperature Converter	CLI + GUI app to convert between Celsius, Fahrenheit, and Kelvin. -	 Completed	Task 1
 
-2.	Guessing Game	A number guessing game where user guesses a randomly generated number	🔄 In Progress	Coming soon
+2.	Guessing Game	A number guessing game where user guesses a randomly generated number.  -  In Progress	Coming soon
 
-3.	Contact Management System	Add, view, search, and delete contacts in a simple CLI app	🔄 In Progress	Coming soon
+3.	Contact Management System	Add, view, search, and delete contacts in a simple CLI app. -  In Progress	Coming soon
 
-4.	Sudoku Solver	A Python script to solve any 9x9 Sudoku puzzle using backtracking	🔄 In Progress	Coming soon
+4.	Sudoku Solver	A Python script to solve any 9x9 Sudoku puzzle using backtracking. -  In Progress	Coming soon
 
-5.	Web Scraper	Extract specific information from a website using Python	🔄 In Progress	Coming soon
+5.	Web Scraper	Extract specific information from a website using Python. -  In Progress	Coming soon
 
 I will update this table with task links and status as I complete them.
 
