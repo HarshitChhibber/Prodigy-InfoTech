@@ -46,7 +46,6 @@ Harshit Chhibber
 B.Tech CSE Student | Software Developer Intern
 LinkedIn - https://www.linkedin.com/in/harshit-chhibber-422943274
 harshit11.2004@gmail.com
-GitHub Profile
 
 ## License
 This repository is licensed under the MIT License. You are free to use this code for educational and personal projects.
