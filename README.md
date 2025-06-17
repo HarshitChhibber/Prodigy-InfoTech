@@ -8,7 +8,7 @@ End Date: 15th July 2025
 Submission Deadline: 20th July 2025
 
 ## Tech Stack -
-Python 3.x
+Python 3.11
 
 Tkinter (for GUI-based tasks)
 
