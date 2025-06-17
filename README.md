@@ -2,12 +2,12 @@
 Welcome to my repository for the Software Development Internship at Prodigy InfoTech!
 This internship focuses on enhancing core software development skills through real-world, hands-on Python projects.
 
-Internship Duration -
+## Internship Duration -
 Start Date: 15th June 2025
 End Date: 15th July 2025
 Submission Deadline: 20th July 2025
 
-Tech Stack -
+## Tech Stack -
 Python 3.x
 
 Tkinter (for GUI-based tasks)
@@ -16,10 +16,7 @@ Requests & BeautifulSoup (for Web Scraping)
 
 Git & GitHub
 
-Objective -
-To gain practical experience in software development by implementing logical, GUI, and data-driven applications using Python. The internship helps build a portfolio of real projects and strengthens programming foundations.
-
-Task Overview -
+## Task Overview -
 Task No.	Title	Description	Status	Task Link
 1	Temperature Converter	CLI + GUI app to convert between Celsius, Fahrenheit, and Kelvin	✅ Completed	Task 1
 2	Guessing Game	A number guessing game where user guesses a randomly generated number	🔄 In Progress	Coming soon
@@ -29,8 +26,7 @@ Task No.	Title	Description	Status	Task Link
 
 I will update this table with task links and status as I complete them.
 
-Repository Structure
-
+## Repository Structure
 Prodigy-InfoTech-Internship/
 ├── Task-01_Temperature-Converter/
 │   ├── Temp Converter.py
@@ -45,12 +41,12 @@ Prodigy-InfoTech-Internship/
 │   └── (to be added)
 ├── README.md  <-- main file
 
-✍️ About Me
+## About Me
 Harshit Chhibber
-👨‍💻 B.Tech CSE Student | Software Developer Intern
-🔗 LinkedIn
-📧 harshit11.2004@gmail.com
-🌐 GitHub Profile
+B.Tech CSE Student | Software Developer Intern
+LinkedIn - https://www.linkedin.com/in/harshit-chhibber-422943274
+harshit11.2004@gmail.com
+GitHub Profile
 
-📜 License
+## License
 This repository is licensed under the MIT License. You are free to use this code for educational and personal projects.
